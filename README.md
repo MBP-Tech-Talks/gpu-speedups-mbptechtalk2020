@@ -1,8 +1,8 @@
 # gpu-speedups-mbptechtalk2020
 
--Numba tutorial notebooks for MBP tech talk 2020.
--Forked from [pydata-amsterdam2019-numba](https://github.com/ContinuumIO/pydata-amsterdam2019-numba). 
--[Video presentation walking through pydata-amsterdam2019-numba notebooks at PyData 2019](https://pyvideo.org/pydata-amsterdam-2019/create-cuda-kernels-from-python-using-numba-and-cupy.html)
+* Numba tutorial notebooks for MBP tech talk 2020.
+* Forked from [pydata-amsterdam2019-numba](https://github.com/ContinuumIO/pydata-amsterdam2019-numba). 
+* [Video presentation walking through pydata-amsterdam2019-numba notebooks at PyData 2019](https://pyvideo.org/pydata-amsterdam-2019/create-cuda-kernels-from-python-using-numba-and-cupy.html)
 
 # Dependencies
 
