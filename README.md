@@ -1,6 +1,6 @@
 # pydata-amsterdam2019-numba
 
-Numba tutorial notebooks for PyData Amsterdam 2019 conference
+Numba tutorial notebooks for MBP tech talk 2020
 
 # Dependencies
 
