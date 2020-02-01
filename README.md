@@ -4,12 +4,6 @@
 * Forked from [pydata-amsterdam2019-numba](https://github.com/ContinuumIO/pydata-amsterdam2019-numba). 
 * [Video presentation walking through pydata-amsterdam2019-numba notebooks at PyData 2019](https://pyvideo.org/pydata-amsterdam-2019/create-cuda-kernels-from-python-using-numba-and-cupy.html)
 
-# Dependencies
-
-```
-numpy numba cupy jupyter scipy matplotlib
-```
-
 # Why GPUs? 
 Many computational problems are parallelizable and can be sped up 10-1000 times on the GPU. Suitable computations are doing the same thing to pieces of 1000s - trillions of pieces of data (records, samples, entries, etc). 
 
